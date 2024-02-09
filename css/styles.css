@@ -37,8 +37,8 @@ body{
     color: #2e2f42;
 }
 
-.nav-list.nav-list:hover,
-.nav-list.nav-list:active{
+.nav-list:hover,
+.nav-list:active{
     color:#404bbf;
 }
 
@@ -59,8 +59,8 @@ body{
     color: #434455;
 }
 
-.contact-list.contact-ref:hover,
-.contact-list.contact-ref:active{
+.contact-ref:hover,
+.contact-ref:active{
     color:#404bbf;
 }
 
@@ -89,12 +89,12 @@ body{
     cursor: pointer;
 }
 
-.intro-section .primary-btn:hover,
-.intro-section .primary-btn:active{
+.primary-btn:hover,
+.primary-btn:active {
     background-color: #404BBF;
 }
 
-.third-section{
+.third-section-list{
     background-color: #FFFFFF;
 }
 
@@ -150,7 +150,7 @@ body{
     color: #f4f4fd;
 }
 
-.logo-title2.logo-span2{
+.logo-title-footer.logo-span-footer{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
