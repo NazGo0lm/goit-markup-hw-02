@@ -33,7 +33,7 @@ body{
 }
 
 .nav-list:hover,
-.nav-list:active{
+.nav-list:focus{
     color:#404bbf;
 }
 
@@ -55,7 +55,7 @@ body{
 }
 
 .contact-ref:hover,
-.contact-ref:active{
+.contact-ref:focus{
     color:#404bbf;
 }
 
@@ -85,7 +85,7 @@ body{
 }
 
 .primary-btn:hover,
-.primary-btn:active {
+.primary-btn:focus {
     background-color: #404BBF;
 }
 
