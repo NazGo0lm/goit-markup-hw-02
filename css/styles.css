@@ -32,8 +32,8 @@ body{
     color: #2e2f42;
 }
 
-.nav-list:hover,
-.nav-list:focus{
+.nav-link:hover,
+.nav-link:focus{
     color:#404bbf;
 }
 
